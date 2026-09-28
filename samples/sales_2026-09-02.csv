@@ -1,0 +1,13 @@
+sale_id,sale_date,product_name,category,quantity,unit_price,payment_method
+S-1013,2026-09-02,Hoodie,Clothing,1,44.00,Card
+S-1014,2026-09-02,Organic Coffee Beans,Groceries,2,14.50,Card
+S-1015,2026-09-02,Ceramic Mug,Home,2,9.50,Mobile
+S-1016,2026-09-02,Wireless Mouse,Electronics,1,24.99,Card
+S-1017,2026-09-31,Desk Lamp,Home,1,34.00,Cash
+S-1018,2026-09-02,Green Tea,Groceries,2,6.75,Cash
+S-1019,2026-09-02,Cotton T-Shirt,Clothing,3,19.99,Mobile
+S-1020,2026-09-02,"Headphones, Over-Ear",Electronics,1,89.00,Card
+S-1021,2026-09-02,USB-C Cable,Electronics,2,-12.99,Cash
+S-1022,2026-09-02,Desk Lamp,Home,2,34.00,Card
+S-1001,2026-09-02,Wireless Mouse,Electronics,2,24.99,Card
+S-1023,02/09/2026,Green Tea,Groceries,1,6.75,Cash

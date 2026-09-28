@@ -1,0 +1,16 @@
+target/
+
+# runtime data (keep the input folder itself)
+data/*
+!data/input/
+data/input/*
+!data/input/.gitkeep
+
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+*.log
